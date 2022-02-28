@@ -1,2 +1,3 @@
 # projeto-dio
-Criando seu jogo de memória estilo Genius
+<h1 align="center"> Criando seu jogo de memória estilo Genius </h1>
+
